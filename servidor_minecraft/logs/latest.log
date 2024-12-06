@@ -6616,3 +6616,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:compat/byg/white_sage'
 [06Dec2024 00:44:20.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the time to 1000]
 [06Dec2024 00:49:38.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
 [06Dec2024 00:53:56.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the time to 1000]
+[06Dec2024 00:54:43.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the time to 1000]
+[06Dec2024 00:54:46.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
+[06Dec2024 00:59:50.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
