@@ -87,6 +87,7 @@
     "criteria": {
       "minecraft:river": "2024-12-05 02:52:21 +0000",
       "minecraft:forest": "2024-12-05 02:49:11 +0000",
+      "minecraft:meadow": "2024-12-06 01:44:58 +0000",
       "minecraft:plains": "2024-12-05 02:51:45 +0000"
     },
     "done": false
@@ -204,6 +205,12 @@
       "add_music": "2024-12-05 02:51:21 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-06 01:48:10 +0000"
+    },
+    "done": false
   },
   "DataVersion": 2975
 }
