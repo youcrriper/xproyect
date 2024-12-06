@@ -747,3 +747,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:compat/byg/white_sage'
 [06Dec2024 01:44:56.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [06Dec2024 01:44:56.067] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [06Dec2024 01:49:48.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
+[06Dec2024 01:52:48.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: youcriper lost connection: Disconnected
+[06Dec2024 01:52:48.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: youcriper left the game
+[06Dec2024 01:52:48.252] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client youcriper
+[06Dec2024 01:53:05.797] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@535b9c5
+[06Dec2024 01:53:05.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: youcriper[/10.144.1.167:61248] logged in with entity id 2028 at (-93.59258379107533, 85.0, 412.8125474927851)
+[06Dec2024 01:53:05.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: youcriper joined the game
+[06Dec2024 01:53:05.854] [Server thread/INFO] [Waila/]: Syncing config to youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2)
+[06Dec2024 01:53:06.382] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of youcriper (18)
+[06Dec2024 01:53:06.383] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to youcriper
+[06Dec2024 01:53:08.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[06Dec2024 01:53:09.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9f14b36d-5b4d-33af-bc66-3bfc295459d2
+[06Dec2024 01:53:09.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player youcriper (9f14b36d-5b4d-33af-bc66-3bfc295459d2) successfully connected to voice chat
+[06Dec2024 01:54:08.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the time to 1000]
+[06Dec2024 01:54:58.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
+[06Dec2024 02:00:24.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
