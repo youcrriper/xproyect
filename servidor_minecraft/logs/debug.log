@@ -15075,3 +15075,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:compat/byg/white_sage'
 [06Dec2024 00:39:51.727] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of youcriper: {disabled=false, disconnected=false, uuid=9f14b36d-5b4d-33af-bc66-3bfc295459d2, name=youcriper, group=null}
 [06Dec2024 00:39:55.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 00:39:55.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:44:18.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
+[06Dec2024 00:44:20.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the time to 1000]
+[06Dec2024 00:44:55.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:44:55.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:49:38.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
+[06Dec2024 00:49:55.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 00:49:55.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 00:53:56.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the time to 1000]

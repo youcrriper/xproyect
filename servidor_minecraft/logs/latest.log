@@ -6612,3 +6612,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:compat/byg/white_sage'
 [06Dec2024 00:28:32.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the time to 1000]
 [06Dec2024 00:28:49.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set spawn point to -94, 79, 514 [0.0] in minecraft:overworld for youcriper]
 [06Dec2024 00:33:48.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
+[06Dec2024 00:44:18.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
+[06Dec2024 00:44:20.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the time to 1000]
+[06Dec2024 00:49:38.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the weather to clear]
+[06Dec2024 00:53:56.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [youcriper: Set the time to 1000]
